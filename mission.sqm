@@ -22535,7 +22535,7 @@ class Mission
 		{
 			position[]={12024.969,0.0023672134,25500.557};
 			name="website";
-			text="WEBSITE: WWW.NL-UNITED.NL";
+			text="WEBSITE: GC-GAMING.DK";
 			type="mil_box";
 			colorName="ColorWEST";
 			angle=-270;
@@ -22544,7 +22544,7 @@ class Mission
 		{
 			position[]={12023.087,-0.047544695,25010.518};
 			name="rent";
-			text="BASE RENT: € 5 per month";
+			text="PLAY NICE";
 			type="mil_box";
 			colorName="ColorWEST";
 			angle=-270;
